@@ -11,7 +11,7 @@ const icons = {
 	[RAIN]: 'rain',
 	[SNOW]: 'snow',
 	[SUN]: 'day-sunny',
-	[THUNDER]: 'day-thunderstore',
+	[THUNDER]: 'day-thunderstorm',
 }
 
 const getWeatherIcon = weatherState => {
